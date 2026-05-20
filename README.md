@@ -1,36 +1,18 @@
-turkey_timon@void_walkers:~$ ./fetch_profile.sh
+# Hi there, I'm Turkey Timon! 👋
 
-████████╗██╗███╗   ███╗██████╗ ███╗   ██╗
-╚══██╔══╝██║████╗ ████║██╔══██╗████╗  ██║
-   ██║   ██║██╔████╔██║██║  ██║██╔██╗ ██║
-   ██║   ██║██║╚██╔╝██║██║  ██║██║╚██╗██║
-   ██║   ██║██║ ╚═╝ ██║██████╔╝██║ ╚████║
-   ╚═╝   ╚═╝╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═══╝
+I'm a 13-year-old cybersecurity enthusiast passionate about digital forensics. I am an active CTF player for the global team Void_Walkers, and I love running my native Kali Linux setup along with experimenting on other distros.
 
-[+] INITIALIZING FORENSICS PROFILE...
+### 🛠️ Tools & Stuff
 
-turkey_timon@void_walkers:~$ cat /etc/user_info
-> Name: Turkey Timon
-> Age: 13
-> Role: CTF Player & Cybersecurity Enthusiast
-> Team: Void_Walkers
-> Specialty: Digital Forensics (Digging deep into the bytes)
+| Frameworks & Languages | Tools & OS |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Parrot_OS-3A80A6?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/antiX_Linux-111111?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Puppy_Linux-A3C940?style=for-the-badge&logo=linux&logoColor=white" /> <br> <br> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Binwalk-333333?style=for-the-badge" /> <img src="https://img.shields.io/badge/zsteg-555555?style=for-the-badge" /> <img src="https://img.shields.io/badge/The_Sleuth_Kit-777777?style=for-the-badge" /> |
 
-turkey_timon@void_walkers:~$ ls -la /opt/tools/
-drwxr-xr-x 2 root root 4096 binwalk
-drwxr-xr-x 2 root root 4096 python
-drwxr-xr-x 2 root root 4096 sleuthkit
-drwxr-xr-x 2 root root 4096 wireshark
-drwxr-xr-x 2 root root 4096 zsteg
+### 🎯 Goals
 
-turkey_timon@void_walkers:~$ cat /etc/os-release
-SUPPORTED_OS="Arch Linux, Kali Linux (Native), Parrot OS, antiX Linux, Puppy Linux"
+- OSCP: ████████░░░░░░░░ 50%
+- Advanced Forensics Techniques: ████████████████ Completed
 
-turkey_timon@void_walkers:~$ ./status --current-goals
-[▓▓▓▓▓▓▓▓░░] Training and grinding CTFs
-[▓▓▓░░░░░░░] Earning the OSCP Certification
+### 📊 GitHub Stat
 
-turkey_timon@void_walkers:~$ echo "Always ready for the next challenge. Let's capture some flags!"
-Always ready for the next challenge. Let's capture some flags!
-
-turkey_timon@void_walkers:~$ █
+[![Turkey Timon's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME_HERE&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
