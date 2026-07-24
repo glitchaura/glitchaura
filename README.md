@@ -15,4 +15,4 @@ I'm a 13-year-old cybersecurity enthusiast passionate about digital forensics. I
 
 ### 📊 GitHub Stat
 
-[![Turkey Timon's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME_HERE&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Turkey Timon's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=glitchaura&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
