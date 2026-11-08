@@ -1,4 +1,4 @@
-# Hi there, I'm Turkey Timon! 👋
+# Hi there, I'm Yash Kotak! 👋
 
 I'm a 13-year-old cybersecurity enthusiast passionate about digital forensics. I am an active CTF player for the global team H3XSEC, and I love running my native Kali Linux setup along with experimenting on other distros.
 
